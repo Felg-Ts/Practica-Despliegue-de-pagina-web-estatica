@@ -1,4 +1,4 @@
-baseURL = "https://bright-choux-89b610.netlify.app"
+baseURL = "/"
 languageCode = "en-us"
 title = "Practica: Despliegue de pagina web estatica"
 theme = "paper"
