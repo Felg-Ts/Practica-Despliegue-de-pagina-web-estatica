@@ -1,0 +1,25 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Practica: Despliegue de pagina web estatica"
+theme = "paper"
+
+disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # add disqus comments
+
+[params]
+  # color style
+  color = 'linen'                 # linen, wheat, gray, light
+
+  # header social icons
+  twitter = 'YOUR_TWITTER_ID'     # twitter.com/YOUR_TWITTER_ID
+  github = 'Felg-Ts'       # github.com/YOUR_GITHUB_ID
+  instagram = 'YOUR_INSTAGRAM_ID' # instagram.com/YOUR_INSTAGRAM_ID
+  rss = true                      # show rss icon with link
+
+  # home page profile
+  avatar = 'GRAVATAR_EMAIL'       # Gravatar email or image url
+  name = 'Felipe'
+  bio = 'YOUR_BIO'
+
+  # misc
+  disableHLJS = true              # disable requesting highlight.js
+  monoDarkIcon = true             # show monochrome dark mode icon
